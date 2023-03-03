@@ -1,0 +1,15 @@
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\bin\Debug\net6.0\Game2.exe
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\bin\Debug\net6.0\Game2.deps.json
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\bin\Debug\net6.0\Game2.runtimeconfig.json
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\bin\Debug\net6.0\Game2.dll
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\bin\Debug\net6.0\Game2.pdb
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.csproj.AssemblyReference.cache
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.AssemblyInfoInputs.cache
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.AssemblyInfo.cs
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.dll
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\refint\Game2.dll
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.pdb
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\Game2.genruntimeconfig.cache
+C:\Users\Aizen Sosuke\Documents\Engine\Game2\Game2\obj\Debug\net6.0\ref\Game2.dll
